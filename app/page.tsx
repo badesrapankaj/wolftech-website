@@ -415,7 +415,7 @@ export default function WolfTechPremiumWebsite() {
 
             <div className="rounded-3xl border border-white/10 bg-white/10 p-6">
               <a
-                href="revolutionarise108@gmail.com?subject=Free%20Strategy%20Call%20Request&body=Hi%20WolfTech%20Analytics%2C%0A%0AI%20want%20to%20discuss%20dashboard%2C%20MIS%20automation%20or%20risk%20analytics%20for%20my%20business.%0A%0ACompany%3A%0APhone%3A%0ARequirement%3A"
+                href="mailto:revolutionarise108@gmail.com?subject=Free%20Strategy%20Call%20Request&body=Hi%20WolfTech%20Analytics%2C%0A%0AI%20want%20to%20discuss%20dashboard%2C%20MIS%20automation%20or%20risk%20analytics%20for%20my%20business.%0A%0ACompany%3A%0APhone%3A%0ARequirement%3A"
                 className="flex w-full items-center justify-center gap-2 rounded-2xl bg-cyan-400 px-6 py-4 text-center text-base font-black text-slate-950 transition hover:-translate-y-0.5 hover:bg-cyan-300"
               >
                 Request Free Consultation
